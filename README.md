@@ -1,22 +1,15 @@
-# Assignment 1: Welcome to App Lab
-Due Wednesday, September 11 
+# Emerging Media and My Digital Life
 
-# Instructions
-1. Clone this repository to your local computer (hint: use the terminal and the `git clone` command).
-2. Open the `welcome-to-app-lab-yourgithubusername` folder in vscode.
-3. Open the the file `README.md`.
-4. Replace the **About Me** section with your own. I've included my own as a template.
-5. Delete the **Assignment** and **Instructions** sections.
-7. `git push` your changed file - this is your assignment submission (don't forget a `commit` message)!
- 
-Be sure and use [markdown](https://medium.com/applab-fall-2019/homework-1-github-bootcamp-bb21077a878b) to help format your document. You can study this document and how it appears on Github to learn more.
+**I have benefited a lot from Internet.**
+1. *Online payment and banking system* since we don’t have to bring cash everywhere with us which is sometimes troublesome. In addition, we don’t have to go to the bank on their working hours to make investment and stuff.
+2. *Online shopping* By visiting retailing website, we can easily buy lots of foreign beauty products and clothes within a week. 
+3. *Social media!* Social media connects me with my friends from all over the world.
 
-# About Me
-Hello! My name is Christian and I live in Shanghai, China. I spend time exploring the intersections of management, creativity, art and technology. I have a lot of ideas and I make a lot of stuff: messaging apps, cryptocurrency hardware, virtual reality games and educational content. I teach students at NYU Shanghai with the goal of helping them understand the intersection of ideas and realities.
+**What I have suffered from digital life are trivial, but they still hurt.** 
+1. Being defrauded on WeChat and Weibo when I try to buy concert tickets from other people. Since the account is anonymous, we can’t really track who’s doing bad to us. They can just take your money and then delete the account and keep on deceiving other people. *What I would like to do to mitigate the problem, is to enact the real-name policy on every social media platform, so that they can get sued.*
+2. I would say is **instant messaging**. Because it is so convenience to chat and share various content through those apps such as WeChat, I feel that I just cannot get rid of all these social relationships, spending so much time sending spam. *What I think can solve the problem is that inside the app, set up a function to check how much messages you’ve sent throughout the day, and give you warning once you send too much useless messages ( detected by the software as well)*.
+3. Even though online shopping is convenient, you sometimes receive fake product and you cannot get refund. *For this one, I think we should add in more supervision to Taobao and stuff.*
 
-I'm a founding member of NYU Shanghai, China's first Sino-American university. I was on the ground floor putting in the plumbing, and was initially responsible for planning and operations to establish the school in Shanghai. Currently I'm teaching and researching full time, while continuing to build interesting products and art in my spare time.
-
-My diverse skill set lends itself well to small, nimble teams. I pride myself on my ability to take risks to create new things. I work efficiently, play multiple roles and speak many languages (programming, business, Chinese). I know enough about most things to sound like an expert on technology, project management, software engineering, digital prototyping, corporate and venture finance, capital markets, macroeconomics and the Chinese innovation ecosystem.
 
 
 
